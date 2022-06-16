@@ -1,0 +1,17 @@
+Cpanel Username: b13_31965058
+Cpanel Password: lansiadata
+Your URL: http://si-datalansia.byethost13.com or http://www.si-datalansia.byethost13.com
+FTP Server : ftpupload.net
+FTP Login : b13_31965058
+FTP Password : lansiadata
+MySQL Database Name: MUST CREATE IN CPANEL
+MySQL Username : b13_31965058
+MySQL Password : lansiadata
+MySQL Server: SEE THE CPANEL
+
+
+Cpanel URL: http://cpanel.byethost13.com/
+
+host : 	sql207.byethost13.com
+db : b13_31965058_lansia
+user : b13_31965058
